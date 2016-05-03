@@ -1,4 +1,4 @@
-# -Script_Facebook_Data_Scraper
+# Script_Facebook_Data_Scraper
 Script develop in Python 3.3.5 to scrape DATA from Facebook pages and store it in MSSQL tables.
 
 'How to' basics steps:
